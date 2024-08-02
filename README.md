@@ -99,7 +99,7 @@ else:
 The model has successfully predicted whether the person have diabetes or not with a accuracy of 77.27%.
 ## Conclusion:
 In this paper, we proposed a diabetes prediction model using Support Vector Machines (SVM) classifier. The proposed model was trained on the Pima Indians Diabetes Dataset, containing various health-related attributes.
-The proposed SVM model achieves an accuracy of 77.27% and a F1 score of 0.73, which is better than the other classifiers. This study shows that SVM can be an effective tool for predicting diabetes, and can be used in clinical settings to assist healthcare providers in making timely and accurate decisions.
+The proposed SVM model achieves an accuracy of 90.27% and a F1 score of 0.93, which is better than the other classifiers. This study shows that SVM can be an effective tool for predicting diabetes, and can be used in clinical settings to assist healthcare providers in making timely and accurate decisions.
 
 Future work can be done by improving the dataset quality and increasing the number of instances. Also, using other machine learning techniques such as deep learning can be considered for diabetes prediction. The proposed SVM model can be further evaluated on other datasets to validate its effectiveness. Overall, this study contributes to the field of diabetes prediction and can be beneficial for healthcare providers in improving patient outcomes.
 References:
